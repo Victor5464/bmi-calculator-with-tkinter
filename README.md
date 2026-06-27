@@ -5,9 +5,9 @@ A lightweight, high-performance command-line utility built in Python to calculat
 ## Features
 
 * **Instant Classification:** Automatically categorizes BMI results (Underweight, Normal, Overweight, Obese).
-* **Multi-Unit Support:** Handles both Metric (kilograms/meters) and Imperial (pounds/inches) data.
+* **Multi-Unit Support:** Handles both Metric (kilograms/meters)
 * **Input Validation:** Built-in error handling to prevent crashes from invalid numeric entries or text.
-* **Clean CLI Output:** Scannable, structured console feedback.
+* **Clean GUI Output:** Intuitive, simple feedback from tkinter.
 
 ---
 
