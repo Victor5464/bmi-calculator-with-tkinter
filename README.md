@@ -48,14 +48,17 @@ Launch the script directly from your terminal:
 
 Install uv (if you do not have it):
 
-On macOS/Linux
-* curl -LsSf https://astral.sh | sh
+* On macOS/Linux
+    ```bash
+    curl -LsSf https://astral.sh | sh
 
-On Windows
-* powershell -c "irm https://astral.sh | iex"
+* On Windows
+    ```bash
+    powershell -c "irm https://astral.sh | iex"
 
-Run the project instantly:
-* uv run main.py
+* Run the project instantly:
+    ```bash
+    uv run main.py
 
 
 ### License
