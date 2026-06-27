@@ -1,6 +1,6 @@
 # BMI Calculator
 
-A lightweight, high-performance command-line utility built in Python to calculate Body Mass Index (BMI). This tool processes weight and height inputs, computes the BMI score, and provides instant health classifications based on World Health Organization (WHO) standards.
+A lightweight, high-performance graphic user interface(GUI) built in Python to calculate Body Mass Index (BMI). This tool processes weight and height inputs, computes the BMI score, and provides instant health classifications based on World Health Organization (WHO) standards.
 
 ## Features
 
