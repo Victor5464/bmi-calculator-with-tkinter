@@ -5,7 +5,6 @@ A lightweight, high-performance graphic user interface(GUI) built in Python to c
 ## Features
 
 * **Instant Classification:** Automatically categorizes BMI results (Underweight, Normal, Overweight, Obese).
-* **Single-Unit Support:** Handles both Metric (kilograms/meters)
 * **Input Validation:** Built-in error handling to prevent crashes from invalid numeric entries or text.
 * **Clean GUI Output:** Intuitive, simple feedback from tkinter.
 
