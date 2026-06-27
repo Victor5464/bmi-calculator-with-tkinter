@@ -41,7 +41,8 @@ The application determines health categories based on the following standard ran
 
 ### Running the Application
 Launch the script directly from your terminal:
-* Python bmi_calculator.py
+    ```bash
+    python bmi_calculator.py
 
 
 ## With uv
