@@ -35,7 +35,7 @@ The application determines health categories based on the following standard ran
 
 2. Navigate into the project directory:
    ```bash
-   git clone [https://github.com/yourusername/bmi-calculator.git](https://github.com/yourusername/bmi-calculator.git)
+   git clone (https://github.com/yourusername/bmi-calculator.git)
 
 
 ### Running the Application
@@ -58,7 +58,7 @@ Install uv (if you do not have it):
 
 * Run the project instantly:
     ```bash
-    uv run main.py
+    uv run app.py
 
 
 ### License
